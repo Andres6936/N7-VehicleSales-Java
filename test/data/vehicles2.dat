@@ -1,0 +1,77 @@
+#---------------------------------------------------------
+# Vehicle Sales
+#---------------------------------------------------------
+
+total.vehicles= 8
+
+vehicle1.model= SL2
+vehicle1.brand= Saturn
+vehicle1.image= .\\data\\saturn.jpg
+vehicle1.type= Car
+vehicle1.year= 1996
+vehicle1.cylinderCapacity= 1500
+vehicle1.axes= 2
+vehicle1.price= 90000000
+
+vehicle2.model= Jetta
+vehicle2.brand= Volkswagen
+vehicle2.image= .\\data\\jetta.jpg
+vehicle2.type= Car
+vehicle2.year= 1998
+vehicle2.cylinderCapacity= 1400
+vehicle2.axes= 2
+vehicle2.price= 50000000
+
+vehicle3.model= Explorer
+vehicle3.brand= Ford
+vehicle3.image= .\\data\\explorer.jpg
+vehicle3.type= Car
+vehicle3.year= 1999
+vehicle3.cylinderCapacity= 2300
+vehicle3.axes= 2
+vehicle3.price= 65000000
+
+vehicle4.model= New Beetle
+vehicle4.brand= Volkswagen
+vehicle4.image= .\\data\\beetle.jpg
+vehicle4.type= Car
+vehicle4.year= 2000
+vehicle4.cylinderCapacity= 1600
+vehicle4.axes= 2
+vehicle4.price= 40000000
+
+vehicle5.model= Caravan
+vehicle5.brand= Dodge
+vehicle5.image= .\\data\\caravan.jpg
+vehicle5.type= Car
+vehicle5.year= 2000
+vehicle5.cylinderCapacity= 1500
+vehicle5.axes= 2
+vehicle5.price= 55000000
+
+vehicle6.model= TT
+vehicle6.brand= Audi
+vehicle6.image= .\\data\\auditt.jpg
+vehicle6.type= Car
+vehicle6.year= 2002
+vehicle6.cylinderCapacity= 1500
+vehicle6.axes= 2
+vehicle6.price= 78980000
+
+vehicle7.model= CLK430
+vehicle7.brand= Mercedes-Benz
+vehicle7.image= .\\data\\clk430.jpg
+vehicle7.type= Car
+vehicle7.year= 2003
+vehicle7.cylinderCapacity= 2500
+vehicle7.axes= 2
+vehicle7.price= 130678000
+
+vehicle8.model= S10 Pickup
+vehicle8.brand= Chevrolet
+vehicle8.image= .\\data\\chevypick.jpg
+vehicle8.type= Car
+vehicle8.year= 1983
+vehicle8.cylinderCapacity= 1900
+vehicle8.axes= 2
+vehicle8.price= 55000000

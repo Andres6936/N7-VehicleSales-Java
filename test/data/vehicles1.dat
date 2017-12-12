@@ -1,0 +1,113 @@
+#---------------------------------------------------------
+# Vehicle Sales
+#---------------------------------------------------------
+
+total.vehicles= 12
+
+vehicle1.model= model_1
+vehicle1.brand= brand_1
+vehicle1.image= image_1
+vehicle1.type= Car
+vehicle1.year= 1
+vehicle1.cylinderCapacity= 1000
+vehicle1.axes= 2
+vehicle1.price= 12000
+
+vehicle2.model= model_2
+vehicle2.brand= brand_2
+vehicle2.image= image_2
+vehicle2.type= Car
+vehicle2.year= 2
+vehicle2.cylinderCapacity= 1000
+vehicle2.axes= 2
+vehicle2.price= 11000
+
+vehicle3.model= model_3
+vehicle3.brand= brand_3
+vehicle3.image= model_3
+vehicle3.type= Car
+vehicle3.year= 3
+vehicle3.cylinderCapacity= 1000
+vehicle3.axes= 2
+vehicle3.price= 9000
+
+vehicle4.model= model_4
+vehicle4.brand= brand_4
+vehicle4.image= image_4
+vehicle4.type= Car
+vehicle4.year= 4
+vehicle4.cylinderCapacity= 1000
+vehicle4.axes= 2
+vehicle4.price= 8000
+
+vehicle5.model= model_5
+vehicle5.brand= brand_5
+vehicle5.image= image_5
+vehicle5.type= Car
+vehicle5.year= 5
+vehicle5.cylinderCapacity= 1000
+vehicle5.axes= 2
+vehicle5.price= 7000
+
+vehicle6.model= model_6
+vehicle6.brand= brand_6
+vehicle6.image= image_6
+vehicle6.type= Car
+vehicle6.year= 6
+vehicle6.cylinderCapacity= 1000
+vehicle6.axes= 2
+vehicle6.price= 6000
+
+vehicle7.model= model_7
+vehicle7.brand= brand_7
+vehicle7.image= image_7
+vehicle7.type= Car
+vehicle7.year= 7
+vehicle7.cylinderCapacity= 1000
+vehicle7.axes= 2
+vehicle7.price= 5000
+
+vehicle8.model= model_8
+vehicle8.brand= brand_8
+vehicle8.image= image_8
+vehicle8.type= Car
+vehicle8.year= 8
+vehicle8.cylinderCapacity= 1000
+vehicle8.axes= 2
+vehicle8.price= 4000
+
+vehicle9.model= model_9
+vehicle9.brand= brand_9
+vehicle9.image= image_9
+vehicle9.type= Car
+vehicle9.year= 9
+vehicle9.cylinderCapacity=5000
+vehicle9.axes= 2
+vehicle9.price= 3000
+
+vehicle10.model= model_10
+vehicle10.brand= brand_10
+vehicle10.image= image_10
+vehicle10.type= Car
+vehicle10.year= 10
+vehicle10.cylinderCapacity= 1000
+vehicle10.axes= 2
+vehicle10.price= 2000
+
+vehicle11.model= model_11
+vehicle11.brand= brand_11
+vehicle11.image= image_11
+vehicle11.type= Car
+vehicle11.year= 11
+vehicle11.cylinderCapacity= 1000
+vehicle11.axes= 2
+vehicle11.price= 1000
+
+vehicle12.model= model_12
+vehicle12.brand= brand_12
+vehicle12.image= image_12
+vehicle12.type= Car
+vehicle12.year= 12
+vehicle12.cylinderCapacity= 1000
+vehicle12.axes= 2
+vehicle12.price= 500
