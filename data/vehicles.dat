@@ -1,0 +1,122 @@
+#---------------------------------------------------------
+# Vehicles Sales
+#---------------------------------------------------------
+
+total.vehicles= 13
+
+Vehicle1.model= SL2
+Vehicle1.brand= Saturn
+Vehicle1.image= .\\data\\saturn.jpg
+Vehicle1.type= Car
+vehicle1.year= 1996
+vehicle1.cylinderCapacity= 1500
+vehicle1.axes= 2
+vehicle1.price= 90000000
+
+vehicle2.model= Jetta
+vehicle2.brand= Volkswagen
+vehicle2.image= .\\data\\jetta.jpg
+vehicle2.type= car
+vehicle2.year= 1998
+vehicle2.cylinderCapacity= 1400
+vehicle2.axes= 2
+vehicle2.price= 500000
+
+vehicle3.model= Explorer
+vehicle3.brand= Ford
+vehicle3.image= .\\data\\explorer.jpg
+vehicle3.type= Car
+vehicle3.year= 1999
+vehicle3.cylinderCapacity= 2300
+vehicle3.axes= 2
+vehicle3.price= 65000000
+
+vehicle4.model= New Beetle
+vehicle4.brand= Volkswagen
+vehicle4.image= .\\data\\beetle.jpg
+vehicle4.type= Car
+vehicle4.year= 2000
+vehicle4.cylinderCapacity= 1600
+vehicle4.axes= 2
+vehicle4.price= 40000000
+
+vehicle5.model= Caravan
+vehicle5.brand= Dodge
+vehicle5.image= .\\data\\caravan.jpg
+vehicle5.type= Car
+vehicle5.year= 2000
+vehicle5.cylinderCapacity= 1500
+vehicle5.axes= 2
+vehicle5.price= 55000000
+
+vehicle6.model= TT
+vehicle6.brand= Audi
+vehicle6.image= .\\data\\auditt.jpg
+vehicle6.type= Car
+vehicle6.year= 2002
+vehicle6.cylinderCapacity= 1500
+vehicle6.axes= 2
+vehicle6.price= 78980000
+
+vehicle7.model= CLK430
+vehicle7.brand= Mercedes-Benz
+vehicle7.image= .\\data\\clk430.jpg
+vehicle7.type= Car
+vehicle7.year= 2003
+vehicle7.cylinderCapacity= 2500
+vehicle7.axes= 2
+vehicle7.price= 130678000
+
+vehicle8.model= S10 Pickup
+vehicle8.brand= Chevrolet
+vehicle8.image= .\\data\\chevypick.jpg
+vehicle8.type= Car
+vehicle8.year= 1983
+vehicle8.cylinderCapacity= 1900
+vehicle8.axes= 2
+vehicle8.price= 55000000
+
+vehicle9.model= 7700
+vehicle9.brand= Volvo
+vehicle9.image= .\\data\\volvo7700.jpg
+vehicle9.type= Bus
+vehicle9.year= 2005
+vehicle9.cylinderCapacity= 4000
+vehicle9.axes= 3
+vehicle9.price= 85000000
+
+vehicle10.model= 8700 Low Entry
+vehicle10.brand= Volvo
+vehicle10.image= .\\data\\volvo8700.jpg
+vehicle10.type= Bus
+vehicle10.year= 2005
+vehicle10.cylinderCapacity= 3500
+vehicle10.axes= 3
+vehicle10.price= 145000000
+
+vehicle11.model= FH16
+vehicle11.brand= Volvo
+vehicle11.image= .\\data\\volvoFH16.jpg
+vehicle11.type= Truck
+vehicle11.year= 2004
+vehicle11.cylinderCapacity= 6500
+vehicle11.axes= 5
+vehicle11.price= 165000000
+
+vehicle12.model= VHD
+vehicle12.brand= Volvo
+vehicle12.image= .\\data\\volvoVHD.jpg
+vehicle12.type= Truck
+vehicle12.year= 2004
+vehicle12.cylinderCapacity= 5000
+vehicle12.axes= 3
+vehicle12.price= 1152506989
+
+vehicle13.model= VT 880
+vehicle13.brand= Volvo
+vehicle13.image= .\\data\\volvoVT880.jpg
+vehicle13.type= Truck
+vehicle13.year= 2004
+vehicle13.cylinderCapacity= 7500
+vehicle13.axes= 5
+vehicle13.price= 89256123
